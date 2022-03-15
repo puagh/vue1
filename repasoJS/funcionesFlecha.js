@@ -23,3 +23,4 @@ console.log(`${num2} a la potencia ${num3} es igual a ${resultado}`)
 const subtract = (a, b) => (a - b)
 resultado =  subtract(num2, num3)
 console.log(`la resta de ${num2} menos ${num3} es igual a ${resultado}`)
+
